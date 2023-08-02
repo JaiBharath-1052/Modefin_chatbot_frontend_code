@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27d59a"/>
+      <stop offset="1" stop-color="#050e63"/>
+    </linearGradient>
+    <filter id="Ellipse_43" x="-2" y="1" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Launcher_icon1_Select">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="Launcher_icon1_Select" data-name="Launcher icon1 Select" clip-path="url(#clip-Launcher_icon1_Select)">
+    <rect width="80" height="80" fill="rgba(255,255,255,0)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_43)">
+      <circle id="Ellipse_43-2" data-name="Ellipse 43" cx="33.5" cy="33.5" r="33.5" transform="translate(7 7)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Chat_Icon" data-name="Chat Icon" d="M21.2,26.044a14.9,14.9,0,0,1-2.451.206,13.662,13.662,0,0,1-7.135-1.914c.192.005.378.039.572.039,7.8,0,14.3-4.973,15.662-11.511A7.1,7.1,0,0,1,30,17.812,7.01,7.01,0,0,1,28.1,22.5h.022V30ZM1.875,15.791A9.136,9.136,0,0,1,0,10.313C0,4.616,5.456,0,12.188,0S24.375,4.616,24.375,10.313,18.919,20.626,12.188,20.626A13.977,13.977,0,0,1,6.936,19.61L1.875,22.5Z" transform="translate(26 26)" fill="#fff"/>
+  </g>
+</svg>

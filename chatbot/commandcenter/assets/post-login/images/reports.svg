@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="377" height="259" viewBox="0 0 377 259">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="126" height="6" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="139" height="52" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect width="4" height="52" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Reports">
+      <rect width="377" height="259"/>
+    </clipPath>
+  </defs>
+  <g id="Reports" clip-path="url(#clip-Reports)">
+    <rect width="377" height="259" fill="rgba(255,255,255,0)"/>
+    <g id="Group_173" data-name="Group 173" transform="translate(-1334 -589)">
+      <g id="Rectangle_1632" data-name="Rectangle 1632" transform="translate(1423 591)" fill="#006768" stroke="#006768" stroke-width="1">
+        <rect width="201" height="9" stroke="none"/>
+        <rect x="0.5" y="0.5" width="200" height="8" fill="none"/>
+      </g>
+      <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(1460 693)" clip-path="url(#clip-path)">
+        <g transform="translate(-9440 -16865)">
+          <g id="Ellipse_73" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-9411 -16865)">
+          <g id="Ellipse_73-2" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-9382 -16865)">
+          <g id="Ellipse_73-3" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-9353 -16865)">
+          <g id="Ellipse_73-4" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-9324 -16865)">
+          <g id="Ellipse_73-5" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(1460 795)" clip-path="url(#clip-path)">
+        <g transform="translate(-9440 -16865)">
+          <g id="Ellipse_73-6" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-9411 -16865)">
+          <g id="Ellipse_73-7" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-9382 -16865)">
+          <g id="Ellipse_73-8" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-9353 -16865)">
+          <g id="Ellipse_73-9" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-9324 -16865)">
+          <g id="Ellipse_73-10" data-name="Ellipse 73" transform="translate(9440 16865)" fill="#f26522" stroke="#f26522" stroke-width="1">
+            <circle cx="3" cy="3" r="3" stroke="none"/>
+            <circle cx="3" cy="3" r="2.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Subtraction_7" data-name="Subtraction 7" transform="translate(1337 810)" fill="#ededfa">
+        <path d="M 185.4999084472656 35.50000762939453 C 135.9648590087891 35.50000762939453 89.39695739746094 33.83641815185547 54.37459182739258 30.8156909942627 C 37.3575439453125 29.34787178039551 24.00149917602539 27.63955307006836 14.67740821838379 25.73810005187988 C 9.896590232849121 24.76309967041016 6.256362915039063 23.74918937683105 3.857862949371338 22.72441673278809 C 1.692499399185181 21.79928207397461 0.4999993443489075 20.83164405822754 0.4999993443489075 19.99978065490723 C 0.4999993443489075 19.34246253967285 1.276363015174866 17.99019050598145 6.47572660446167 16.31882667541504 C 10.52009010314941 15.01878070831299 16.50658988952637 13.76346302032471 24.26890754699707 12.5878267288208 C 39.50197601318359 10.28064250946045 61.35724258422852 8.319400787353516 87.50022888183594 6.912964820861816 L 87.50022888183594 19.99978065490723 L 87.50022888183594 20.49978065490723 L 88.00022888183594 20.49978065490723 L 286.0002136230469 20.49978065490723 L 286.5002136230469 20.49978065490723 L 286.5002136230469 19.99978065490723 L 286.5002136230469 7.077882766723633 C 311.8132019042969 8.498437881469727 332.9331970214844 10.4488353729248 347.6032409667969 12.72123527526855 C 355.0899658203125 13.88096332550049 360.8607177734375 15.11655426025391 364.7552185058594 16.39369010925293 C 369.7535095214844 18.03282737731934 370.4998168945313 19.35659980773926 370.4998168945313 19.99978065490723 C 370.4998168945313 20.83164405822754 369.3073120117188 21.79928207397461 367.1419677734375 22.72441673278809 C 364.7434387207031 23.74918937683105 361.1032409667969 24.76309967041016 356.3224182128906 25.73810005187988 C 346.9983215332031 27.63955307006836 333.6422729492188 29.34787178039551 316.6252136230469 30.8156909942627 C 281.6028747558594 33.83641815185547 235.0349578857422 35.50000762939453 185.4999084472656 35.50000762939453 Z" stroke="none"/>
+        <path d="M 185.4999084472656 34.99998474121094 C 235.0212554931641 34.99998474121094 281.5738525390625 33.3370361328125 316.5822448730469 30.31753540039063 C 333.580322265625 28.85138511657715 346.9172058105469 27.14583587646484 356.2225646972656 25.24813652038574 C 360.9703063964844 24.27993583679199 364.5780029296875 23.27613639831543 366.9454956054688 22.26463508605957 C 369.8525695800781 21.02258491516113 369.9998168945313 20.16008567810059 369.9998168945313 19.99978637695313 C 369.9998168945313 19.68433570861816 369.5938110351563 19.22388648986816 368.9136962890625 18.76803588867188 C 367.9748229980469 18.13868522644043 366.5233154296875 17.49968528747559 364.5994567871094 16.8687858581543 C 360.730712890625 15.60013580322266 354.9866027832031 14.37093544006348 347.5267028808594 13.21533584594727 C 332.9744567871094 10.9611644744873 312.0638732910156 9.023951530456543 287.0002136230469 7.606827735900879 L 287.0002136230469 19.99978637695313 L 287.0002136230469 20.99978637695313 L 286.0002136230469 20.99978637695313 L 88.00020599365234 20.99978637695313 L 87.00020599365234 20.99978637695313 L 87.00020599365234 19.99978637695313 L 87.00020599365234 7.440751075744629 C 61.10760116577148 8.844197273254395 39.45873641967773 10.79290008544922 24.34380912780762 13.08218574523926 C 16.60785865783691 14.25383567810059 10.6476583480835 15.5029354095459 6.628758430480957 16.79483604431152 C 4.626808643341064 17.43838500976563 3.115708351135254 18.09078598022461 2.137408494949341 18.73398590087891 C 1.425208449363708 19.20223617553711 1.000008463859558 19.67543601989746 1.000008463859558 19.99978637695313 C 1.000008463859558 20.16008567810059 1.147258400917053 21.02258491516113 4.054308414459229 22.26463508605957 C 6.421808242797852 23.27613639831543 10.0295581817627 24.27993583679199 14.77730846405029 25.24813652038574 C 24.08270835876465 27.14583587646484 37.41960906982422 28.85138511657715 54.41761016845703 30.31753540039063 C 89.42601013183594 33.3370361328125 135.9786071777344 34.99998474121094 185.4999084472656 34.99998474121094 M 185.4999084472656 35.99998474121094 C 135.9507141113281 35.99998474121094 89.36760711669922 34.33573532104492 54.33165740966797 31.31383514404297 C 37.29575729370117 29.84443473815918 23.92055892944336 28.13333511352539 14.57750797271729 26.22798538208008 C 4.904608249664307 24.25538635253906 8.447265827271622e-06 22.15993499755859 8.447265827271622e-06 19.99978637695313 C 8.447265827271622e-06 18.59008598327637 2.127258539199829 17.19148635864258 6.322708606719971 15.84283542633057 C 10.39230823516846 14.53463554382324 16.40510749816895 13.27313613891602 24.19405937194824 12.09348583221436 C 39.54505920410156 9.768435478210449 61.60886001586914 7.794635772705078 88.00020599365234 6.385485649108887 L 88.00020599365234 19.99978637695313 L 286.0002136230469 19.99978637695313 L 286.0002136230469 6.549135684967041 C 311.5677185058594 7.973285675048828 332.8958129882813 9.93703556060791 347.6798095703125 12.22713565826416 C 355.193115234375 13.3909854888916 360.9905700683594 14.63293552398682 364.9110717773438 15.91858577728271 C 368.9512634277344 17.2435359954834 370.9998168945313 18.61668586730957 370.9998168945313 19.99978637695313 C 370.9998168945313 22.15993499755859 366.09521484375 24.25538635253906 356.42236328125 26.22798538208008 C 347.0793151855469 28.13333511352539 333.7040710449219 29.84443473815918 316.668212890625 31.31383514404297 C 281.6322631835938 34.33573532104492 235.0491027832031 35.99998474121094 185.4999084472656 35.99998474121094 Z" stroke="none" fill="#ededfa"/>
+      </g>
+      <g id="Repeat_Grid_5" data-name="Repeat Grid 5" transform="translate(1456.5 625)" clip-path="url(#clip-path-3)">
+        <g transform="translate(-9436.5 -16797)">
+          <line id="Line_111" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16781)">
+          <line id="Line_111-2" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16765)">
+          <line id="Line_111-3" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16749)">
+          <line id="Line_111-4" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_6" data-name="Repeat Grid 6" transform="translate(1456.5 727)" clip-path="url(#clip-path-3)">
+        <g transform="translate(-9436.5 -16797)">
+          <line id="Line_111-5" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16781)">
+          <line id="Line_111-6" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16765)">
+          <line id="Line_111-7" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16749)">
+          <line id="Line_111-8" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_7" data-name="Repeat Grid 7" transform="translate(1593.5 625)" clip-path="url(#clip-path-5)">
+        <g transform="translate(-9573.5 -16797)">
+          <line id="Line_112" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16781)">
+          <line id="Line_112-2" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16765)">
+          <line id="Line_112-3" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16749)">
+          <line id="Line_112-4" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_12" data-name="Repeat Grid 12" transform="translate(1593.5 727)" clip-path="url(#clip-path-5)">
+        <g transform="translate(-9573.5 -16797)">
+          <line id="Line_112-5" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16781)">
+          <line id="Line_112-6" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16765)">
+          <line id="Line_112-7" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16749)">
+          <line id="Line_112-8" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_10" data-name="Repeat Grid 10" transform="translate(1448.5 625)" clip-path="url(#clip-path-5)">
+        <g transform="translate(-9573.5 -16797)">
+          <line id="Line_112-9" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16781)">
+          <line id="Line_112-10" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16765)">
+          <line id="Line_112-11" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16749)">
+          <line id="Line_112-12" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_11" data-name="Repeat Grid 11" transform="translate(1448.5 727)" clip-path="url(#clip-path-5)">
+        <g transform="translate(-9573.5 -16797)">
+          <line id="Line_112-13" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16781)">
+          <line id="Line_112-14" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16765)">
+          <line id="Line_112-15" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+        <g transform="translate(-9573.5 -16749)">
+          <line id="Line_112-16" data-name="Line 112" x2="4" transform="translate(9573.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_8" data-name="Repeat Grid 8" transform="translate(1456.5 625)" clip-path="url(#clip-path-3)">
+        <g transform="translate(-9436.5 -16797)">
+          <line id="Line_111-9" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16781)">
+          <line id="Line_111-10" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16765)">
+          <line id="Line_111-11" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16749)">
+          <line id="Line_111-12" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_9" data-name="Repeat Grid 9" transform="translate(1456.5 625)" clip-path="url(#clip-path-3)">
+        <g transform="translate(-9436.5 -16797)">
+          <line id="Line_111-13" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16781)">
+          <line id="Line_111-14" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16765)">
+          <line id="Line_111-15" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+        <g transform="translate(-9436.5 -16749)">
+          <line id="Line_111-16" data-name="Line 111" x2="139" transform="translate(9436.5 16797.5)" fill="none" stroke="#b8e6e4" stroke-width="1" stroke-dasharray="18"/>
+        </g>
+      </g>
+      <g id="Rectangle_1651" data-name="Rectangle 1651" transform="translate(1458 659)" fill="#b8e6e4" stroke="#b8e6e4" stroke-width="1">
+        <rect width="10" height="31" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="30" fill="none"/>
+      </g>
+      <g id="Rectangle_1652" data-name="Rectangle 1652" transform="translate(1517 672)" fill="#b8e6e4" stroke="#b8e6e4" stroke-width="1">
+        <rect width="10" height="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="17" fill="none"/>
+      </g>
+      <g id="Rectangle_1653" data-name="Rectangle 1653" transform="translate(1487 759)" fill="#f26522" stroke="#f26522" stroke-width="1">
+        <rect width="10" height="31" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="30" fill="none"/>
+      </g>
+      <g id="Rectangle_1654" data-name="Rectangle 1654" transform="translate(1546 725)" fill="#f26522" stroke="#f26522" stroke-width="1">
+        <rect width="10" height="65" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="64" fill="none"/>
+      </g>
+      <g id="Rectangle_1655" data-name="Rectangle 1655" transform="translate(1458 759)" fill="#f26522" stroke="#f26522" stroke-width="1">
+        <rect width="10" height="31" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="30" fill="none"/>
+      </g>
+      <g id="Rectangle_1656" data-name="Rectangle 1656" transform="translate(1517 774)" fill="#f26522" stroke="#f26522" stroke-width="1">
+        <rect width="10" height="16" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="15" fill="none"/>
+      </g>
+      <g id="Rectangle_1657" data-name="Rectangle 1657" transform="translate(1487 641)" fill="#f26522" stroke="#f26522" stroke-width="1">
+        <rect width="10" height="49" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="48" fill="none"/>
+      </g>
+      <g id="Rectangle_1658" data-name="Rectangle 1658" transform="translate(1546 625)" fill="#f26522" stroke="#f26522" stroke-width="1">
+        <rect width="10" height="65" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="64" fill="none"/>
+      </g>
+      <g id="Rectangle_1659" data-name="Rectangle 1659" transform="translate(1575 640)" fill="#b8e6e4" stroke="#b8e6e4" stroke-width="1">
+        <rect width="10" height="50" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="49" fill="none"/>
+      </g>
+      <g id="Rectangle_1660" data-name="Rectangle 1660" transform="translate(1450 688)" fill="#fff" stroke="#00a79d" stroke-width="1">
+        <rect width="147" height="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="146" height="1" fill="none"/>
+      </g>
+      <g id="Rectangle_1661" data-name="Rectangle 1661" transform="translate(1450 790)" fill="#fff" stroke="#00a79d" stroke-width="1">
+        <rect width="147" height="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="146" height="1" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

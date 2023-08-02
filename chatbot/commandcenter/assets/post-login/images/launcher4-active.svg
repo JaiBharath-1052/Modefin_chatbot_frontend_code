@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27d59a"/>
+      <stop offset="1" stop-color="#050e63"/>
+    </linearGradient>
+    <filter id="Ellipse_43" x="-2" y="1" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Launcher_icon3_Select">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="Launcher_icon3_Select" data-name="Launcher icon3 Select" clip-path="url(#clip-Launcher_icon3_Select)">
+    <rect width="80" height="80" fill="rgba(255,255,255,0)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_43)">
+      <circle id="Ellipse_43-2" data-name="Ellipse 43" cx="33.5" cy="33.5" r="33.5" transform="translate(7 7)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Union_14" data-name="Union 14" d="M-4152.346-14420.5H-4172a2.5,2.5,0,0,1-2.5-2.5v-16a2.5,2.5,0,0,1,2.5-2.5h23a2.5,2.5,0,0,1,2.5,2.5v12.6h.21v10.663Z" transform="translate(4201 14468)" fill="#fff"/>
+  </g>
+</svg>

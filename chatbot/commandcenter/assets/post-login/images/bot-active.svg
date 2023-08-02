@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-Bot">
+      <rect width="35" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="Bot" clip-path="url(#clip-Bot)">
+    <rect width="35" height="35" fill="rgba(255,255,255,0)"/>
+    <g id="Group_112" data-name="Group 112" transform="translate(0 1.001)">
+      <path id="Exclusion_2" data-name="Exclusion 2" d="M-5670-10020h-25v-18a6,6,0,0,1,6-6h5v-2.5a2.478,2.478,0,0,1-1-2,2.5,2.5,0,0,1,2.5-2.5,2.5,2.5,0,0,1,2.5,2.5,2.47,2.47,0,0,1-1,2v2.5h5a6,6,0,0,1,6,6v18Zm-17-8a3,3,0,0,0-3,3v3h15v-3a3,3,0,0,0-3-3Zm9.5-10a2.5,2.5,0,0,0-2.5,2.5,2.5,2.5,0,0,0,2.5,2.5,2.5,2.5,0,0,0,2.5-2.5A2.5,2.5,0,0,0-5677.5-10038Zm-10,0a2.5,2.5,0,0,0-2.5,2.5,2.5,2.5,0,0,0,2.5,2.5,2.5,2.5,0,0,0,2.5-2.5A2.5,2.5,0,0,0-5687.5-10038Z" transform="translate(5700 10052)" fill="#fff"/>
+      <rect id="Rectangle_1577" data-name="Rectangle 1577" width="3" height="11" rx="1.5" transform="translate(1 15)" fill="#fff"/>
+      <rect id="Rectangle_1578" data-name="Rectangle 1578" width="3" height="11" rx="1.5" transform="translate(31 15)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

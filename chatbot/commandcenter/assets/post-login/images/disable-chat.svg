@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <clipPath id="clip-_4._Disable_chat">
+      <rect width="43" height="43"/>
+    </clipPath>
+  </defs>
+  <g id="_4._Disable_chat" data-name="4. Disable chat" clip-path="url(#clip-_4._Disable_chat)">
+    <rect width="43" height="43" fill="rgba(255,255,255,0)"/>
+    <g id="block" transform="translate(1 1)">
+      <g id="Group_190" data-name="Group 190">
+        <path id="Path_505" data-name="Path 505" d="M20.477,0A20.477,20.477,0,1,0,40.955,20.477,20.472,20.472,0,0,0,20.477,0ZM4.1,20.477A16.365,16.365,0,0,1,30.512,7.546L7.546,30.512A16.321,16.321,0,0,1,4.1,20.477ZM20.477,36.86a16.32,16.32,0,0,1-10.034-3.45L33.409,10.444A16.365,16.365,0,0,1,20.477,36.86Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-Logout">
+      <rect width="35" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="Logout" clip-path="url(#clip-Logout)">
+    <rect width="35" height="35" fill="rgba(255,255,255,0)"/>
+    <g id="Group_118" data-name="Group 118" transform="translate(0 3)">
+      <g id="Group_117" data-name="Group 117" transform="translate(-5755 -10169)">
+        <line id="Line_84" data-name="Line 84" x2="12" transform="translate(5771.5 10183.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+        <path id="Path_447" data-name="Path 447" d="M18331,12466.724l3.135,4.745-3.135,4.557" transform="translate(-12550 -2288)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Subtraction_6" data-name="Subtraction 6" transform="translate(5)" fill="#fff">
+        <path d="M17,29H3a3,3,0,0,1-3-3V3A3,3,0,0,1,3,0H17a3,3,0,0,1,2.829,2H2V27H19.829A3,3,0,0,1,17,29Z" stroke="none"/>
+        <path d="M 17.00010108947754 28.99980163574219 L 2.999701738357544 28.99980163574219 C 1.345661759376526 28.99980163574219 1.762084934853192e-06 27.65414047241211 1.762084934853192e-06 26.00010108947754 L 1.762084934853192e-06 2.999700784683228 C 1.762084934853192e-06 1.345660805702209 1.345661759376526 8.178710686479462e-07 2.999701738357544 8.178710686479462e-07 L 17.00010108947754 8.178710686479462e-07 C 18.26957130432129 8.178710686479462e-07 19.40647125244141 0.8036608099937439 19.82914161682129 1.999800801277161 L 1.999801754951477 1.999800801277161 L 1.999801754951477 27 L 19.82914161682129 27 C 19.40627098083496 28.19668006896973 18.26899147033691 28.99980163574219 17.00010108947754 28.99980163574219 Z" stroke="none" fill="#707070"/>
+      </g>
+    </g>
+  </g>
+</svg>

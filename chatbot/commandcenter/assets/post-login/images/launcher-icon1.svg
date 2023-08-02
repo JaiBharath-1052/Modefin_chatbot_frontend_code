@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Launcher_icon1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Launcher_icon1" data-name="Launcher icon1" clip-path="url(#clip-Launcher_icon1)">
+    <rect width="32" height="32" fill="rgba(255,255,255,0)"/>
+    <path id="Chat_Icon" data-name="Chat Icon" d="M21.2,26.044a14.9,14.9,0,0,1-2.451.206,13.662,13.662,0,0,1-7.135-1.914c.192.005.378.039.572.039,7.8,0,14.3-4.973,15.662-11.511A7.1,7.1,0,0,1,30,17.812,7.01,7.01,0,0,1,28.1,22.5h.022V30ZM1.875,15.791A9.136,9.136,0,0,1,0,10.313C0,4.616,5.456,0,12.188,0S24.375,4.616,24.375,10.313,18.919,20.626,12.188,20.626A13.977,13.977,0,0,1,6.936,19.61L1.875,22.5Z" transform="translate(1 1)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+[
+    {"user_id": 1, "name": "JsoaliXpkqnZSCIoyoOYnWFcMs24l027", "last_seen": "10 Oct 2020", "last_conversation": "Closed - Diva", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 2, "name": "VlasliXpkqnZSCIoyoOYnWFcMs554756", "last_seen": "11 Oct 2020", "last_conversation": "Closed - Joker", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 3, "name": "BroxliXpkqnZSCIoyoOYnWFcMs600504", "last_seen": "12 Oct 2020", "last_conversation": "Closed - Diva", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 4, "name": "ButaliXpkqnZSCIoyoOYnWFcMs43627", "last_seen": "13 Oct 2020", "last_conversation": "Closed - Diva", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 5, "name": "VlasliXpkqnZSCIoyoOYnWFcMs90092", "last_seen": "14 Oct 2020", "last_conversation": "Closed - Joker", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 1, "name": "JsoaliXpkqnZSCIoyoOYnWFcMs24l027", "last_seen": "10 Oct 2020", "last_conversation": "Closed - Diva", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 2, "name": "VlasliXpkqnZSCIoyoOYnWFcMs554756", "last_seen": "11 Oct 2020", "last_conversation": "Closed - Joker", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 3, "name": "BroxliXpkqnZSCIoyoOYnWFcMs600504", "last_seen": "12 Oct 2020", "last_conversation": "Closed - Diva", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 4, "name": "ButaliXpkqnZSCIoyoOYnWFcMs43627", "last_seen": "13 Oct 2020", "last_conversation": "Closed - Diva", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"},
+    {"user_id": 5, "name": "VlasliXpkqnZSCIoyoOYnWFcMs90092", "last_seen": "14 Oct 2020", "last_conversation": "Closed - Joker", "block_conv": "<i class='far fa-stop-circle'></i>", "delete_conv": "<i class='far fa-trash-alt'></i>"}
+]

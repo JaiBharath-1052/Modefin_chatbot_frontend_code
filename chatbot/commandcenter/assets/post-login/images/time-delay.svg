@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <clipPath id="clip-_2_Time_delay">
+      <rect width="43" height="43"/>
+    </clipPath>
+  </defs>
+  <g id="_2_Time_delay" data-name="2 Time delay" clip-path="url(#clip-_2_Time_delay)">
+    <rect width="43" height="43" fill="rgba(255,255,255,0)"/>
+    <g id="clock" transform="translate(1 1)">
+      <g id="Group_194" data-name="Group 194" transform="translate(19.045 9.578)">
+        <g id="Group_193" data-name="Group 193">
+          <path id="Path_507" data-name="Path 507" d="M245.124,133.49l-5.757-4.318v-8.795a1.6,1.6,0,0,0-3.2,0v9.594a1.6,1.6,0,0,0,.64,1.279l6.4,4.8a1.6,1.6,0,0,0,1.919-2.559Z" transform="translate(-236.169 -118.779)"/>
+        </g>
+      </g>
+      <g id="Group_196" data-name="Group 196">
+        <g id="Group_195" data-name="Group 195">
+          <path id="Path_508" data-name="Path 508" d="M20.644,0A20.644,20.644,0,1,0,41.288,20.644,20.667,20.667,0,0,0,20.644,0Zm0,38.09A17.446,17.446,0,1,1,38.09,20.644,17.467,17.467,0,0,1,20.644,38.09Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

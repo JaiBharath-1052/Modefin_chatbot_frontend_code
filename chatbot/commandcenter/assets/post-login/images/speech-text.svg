@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <clipPath id="clip-_7_Speech_to_text">
+      <rect width="43" height="43"/>
+    </clipPath>
+  </defs>
+  <g id="_7_Speech_to_text" data-name="7 Speech to text" clip-path="url(#clip-_7_Speech_to_text)">
+    <rect width="43" height="43" fill="rgba(255,255,255,0)"/>
+    <g id="mic" transform="translate(-87.922)">
+      <g id="Group_202" data-name="Group 202" transform="translate(101.71)">
+        <g id="Group_201" data-name="Group 201">
+          <path id="Path_517" data-name="Path 517" d="M173.682,0a7.384,7.384,0,0,0-7.375,7.375v14.5a7.376,7.376,0,0,0,14.751.051V7.375A7.384,7.384,0,0,0,173.682,0Zm4.3,21.921a4.3,4.3,0,0,1-8.6-.051V7.375a4.3,4.3,0,1,1,8.6,0Z" transform="translate(-166.307 0)"/>
+        </g>
+      </g>
+      <g id="Group_204" data-name="Group 204" transform="translate(107.549 33.651)">
+        <g id="Group_203" data-name="Group 203">
+          <rect id="Rectangle_1675" data-name="Rectangle 1675" width="3.073" height="6.915"/>
+        </g>
+      </g>
+      <g id="Group_206" data-name="Group 206" transform="translate(103.502 39.029)">
+        <g id="Group_205" data-name="Group 205">
+          <path id="Path_518" data-name="Path 518" d="M197.736,474.628h-8.093a1.537,1.537,0,1,0,0,3.073h8.093a1.537,1.537,0,1,0,0-3.073Z" transform="translate(-188.107 -474.628)"/>
+        </g>
+      </g>
+      <g id="Group_208" data-name="Group 208" transform="translate(95.922 19.309)">
+        <g id="Group_207" data-name="Group 207">
+          <path id="Path_519" data-name="Path 519" d="M120.712,234.822a1.536,1.536,0,0,0-1.537,1.537v1.229a10.09,10.09,0,1,1-20.18,0v-1.229a1.537,1.537,0,0,0-3.073,0v1.229a13.163,13.163,0,1,0,26.327,0v-1.229A1.537,1.537,0,0,0,120.712,234.822Z" transform="translate(-95.922 -234.822)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

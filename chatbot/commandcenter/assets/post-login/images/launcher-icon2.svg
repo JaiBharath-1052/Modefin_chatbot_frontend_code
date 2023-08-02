@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Launcher_icon2">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Launcher_icon2" data-name="Launcher icon2" clip-path="url(#clip-Launcher_icon2)">
+    <rect width="32" height="32" fill="rgba(255,255,255,0)"/>
+    <path id="Exclusion_10" data-name="Exclusion 10" d="M-598.862-12099.446v-7.141h-4.757a2.381,2.381,0,0,1-2.38-2.377v-16.658a2.382,2.382,0,0,1,2.38-2.378h23.793a2.382,2.382,0,0,1,2.38,2.378v16.658a2.381,2.381,0,0,1-2.38,2.377h-11.9l-7.136,7.14Zm-2.639-14.053a1,1,0,0,0-1,1,1,1,0,0,0,1,1h13a1,1,0,0,0,1-1,1,1,0,0,0-1-1Zm0-5a1,1,0,0,0-1,1,1,1,0,0,0,1,1h20a1,1,0,0,0,1-1,1,1,0,0,0-1-1Zm0-5a1,1,0,0,0-1,1,1,1,0,0,0,1,1h20a1,1,0,0,0,1-1,1,1,0,0,0-1-1Z" transform="translate(608 12130)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+
+<head id="mainHead">
+    <meta charset="ISO-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>chatbot</title>
+</head>
+<style>
+    *,
+    div,
+    ul,
+    li,
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    input,
+    img,
+    div:before,
+    div:after {
+        box-sizing: border-box;
+    }
+
+    * {
+        font-family: 'latoregular';
+    }
+
+    .header-band {
+        background: url(http://192.168.145.75/assets/pre-login/wl/top.png) no-repeat top left;
+        height: 90px;
+        width: 100%;
+    }
+
+    body.no-bg-img {
+        background: unset;
+    }
+
+    body {
+        margin: 0;
+        padding: 0px;
+        font-family: 'latoregular, sans-serif';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 24px;
+        color: #666666;
+        overflow-x: hidden;
+        background: url(../img/bg-axis-priority.png);
+    }
+
+    @media (min-width: 768px) {
+
+        .container {
+            width: 750px;
+        }
+    }
+
+    .container {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .loginbox {
+        width: 30%;
+        margin: 80px auto 0;
+    }
+
+    @media screen and (max-width: 992px) {
+        .tab ul {
+            padding: 0;
+        }
+    }
+
+    .tab ul {
+        list-style: none;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .tablinks.active {
+        color: #00a79d;
+        border-bottom: solid 2px #00a79d;
+    }
+
+    .tab ul li {
+        display: inline-block;
+    }
+
+    @media screen and (max-width: 992px) {
+
+        .tablinks {
+            width: 49%;
+        }
+    }
+
+    .tablinks {
+        color: #959595;
+        font-size: 16px;
+        line-height: 16px;
+        width: 45%;
+        background: transparent;
+        text-align: center;
+        padding: 10px 5px;
+        border: 1px solid transparent;
+        border-bottom-color: #d7d7d7;
+        cursor: pointer;
+    }
+
+    .bottomfooter p,
+    ul li {
+        margin-bottom: 0;
+    }
+
+    @media screen and (max-width: 992px) {
+
+        .userinput {
+            padding: 0;
+        }
+    }
+
+    @media screen and (max-width: 992px) {
+
+        .userinput input {
+            width: 100%;
+        }
+    }
+
+    .userinput input {
+        width: 100%;
+        font-size: 16px;
+        color: #959595;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+        border: none;
+        outline: none;
+        margin-top: 20px;
+        border-bottom: solid 1px #d8d8d8;
+        border-radius: 0;
+    }
+
+    .tabcontent ul li {
+        list-style-type: none;
+    }
+
+    @media screen and (max-width: 992px) {
+
+        .userinput input {
+            width: 100%;
+        }
+    }
+
+    .chkbox-wrpr {
+        margin-top: 20px;
+    }
+
+    .use-virtual-keyboard {
+        background-image: url(../img/keyboard.png);
+        background-repeat: no-repeat;
+        padding: 8px 0 0 27px;
+        font-size: 14px;
+        line-height: 0.86;
+        color: #00a79d;
+        font-weight: normal;
+    }
+
+    #loginbtntext {
+        color: #fff;
+    }
+
+    .userinput input[type="submit"] {
+        margin-top: 30px;
+    }
+
+    input.inner-btn {
+        height: 40px;
+        border: none;
+        border-radius: 2px;
+        background-color: #00a79d;
+        width: 30%;
+        color: #fff;
+        font-size: 14px;
+        margin-top: 40px;
+    }
+
+    .main-cont {
+        width: 450px;
+        margin: 40px auto;
+        color: #00a79d;
+    }
+
+    .login-links a {
+        text-decoration: none;
+        color: #00a79d;
+        font-size: 14px;
+        padding: 0 10px;
+    }
+
+    @media screen and (max-width: 992px) {
+
+        .userinput input {
+            width: 100%;
+        }
+    }
+    h1, h2, h3, h4, h5, ul, li, p {
+    margin: 0px;
+    padding: 0px;
+}
+.userinput input {
+    width: 100%;
+    font-size: 16px;
+    color: #959595;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    border-bottom: solid 1px #d8d8d8;
+    border-radius: 0;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+</style>
+
+<body class="no-bg-img">
+    <script>
+        var script = document.createElement('script');
+        script.type = "text/javascript";
+        var bot_id = 3;
+        var app_id = "9005c72eff0744149c294b187544f4a1";
+        var baseURL = 'http://192.168.145.75'
+        script.src = baseURL + '/assets/chat-widget/js/chatbot.js';
+        var head = document.getElementsByTagName('head')[0];
+        head.appendChild(script);
+    </script>
+    <div>
+        <div class="header-band"></div>
+    </div>
+    <div class="container">
+        <div class="row">
+
+            <div class="loginbox">
+
+
+                <div class="tab" id="selecttab">
+                    <ul class="text-center">
+                        <li class="tablinks active" onclick="openCity(event, 'London')">Login ID</li>
+                    </ul>
+                </div><br>
+                <div id="London" class="tabcontent active">
+                    <ul class="userinput">
+                        <form method="post" onsubmit="submitForm()" action="../MFAction" id="ff">
+                            <input type="hidden" name="hiddenActionType" value="-WebSystemuserview-WebLogin">
+                            <input type="hidden" name="userid">
+                            <input type="hidden" name="pwd">
+                            <center></center>
+
+                            <li>
+                                <div class="input-list">
+                                    <div class="input-cont">
+
+                                        <input type="text" id="userid" class="ip-text" name="tfCif"
+                                            placeholder="Username" required="" maxlength="15" autocomplete="off">
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="input-list pwd-cont">
+                                    <div class="input-cont pwd">
+                                        <input type="password" maxlength="10" onkeypress="return isNumberKey(event)"
+                                            id="pwd" name="tfIbpwd" placeholder="Login Passcode" autocomplete="off"
+                                            required="true"
+                                            class="ip-text ui-keyboard-input ui-widget-content ui-corner-all"
+                                            aria-haspopup="true" role="textbox">
+                                    </div>
+                                </div>
+                            </li>
+                            <li><input name="login" value="Login" class="inner-btn cm-button-red1" type="submit"
+                                    id="loginbtntext"></li>
+                        </form>
+                    </ul>
+                </div>
+            </div>
+            <div class="main-cont">
+                <div class="login-links text-center">
+                    <a href="selfRegistration.jsp">First time user? Register</a>
+                    <span>|</span>
+                    <a href="forgotpwd_s1.jsp">Forgot Password</a>
+                    <span>|</span>
+                    <a href="#" onclick="fingerprintReport()">QR Code Login</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

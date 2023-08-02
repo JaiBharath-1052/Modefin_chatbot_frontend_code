@@ -1,0 +1,26 @@
+[
+    {
+       "monthName": "October",
+       "data": 100
+    },
+    {
+        "monthName": "November",
+        "data": 222
+     },
+     {
+        "monthName": "December",
+        "data": 50
+     },
+     {
+        "monthName": "January",
+        "data": 200
+     },
+     {
+        "monthName": "February",
+        "data": 65
+     },
+     {
+        "monthName": "March",
+        "data": 45
+     }
+]

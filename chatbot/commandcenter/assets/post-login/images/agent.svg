@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-Agent_deselect">
+      <rect width="35" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="Agent_deselect" data-name="Agent deselect" clip-path="url(#clip-Agent_deselect)">
+    <rect width="35" height="35" fill="rgba(255,255,255,0)"/>
+    <g id="Group_113" data-name="Group 113" transform="translate(-5743 -10051)" opacity="0.5">
+      <path id="Union_26" data-name="Union 26" d="M28,28H0a9.01,9.01,0,0,1,9-9h1V15.477q-.151-.128-.3-.265a1,1,0,0,1-1.069-.48l-2-3.464A1,1,0,0,1,7,9.9q.044-.025.09-.046A10.26,10.26,0,0,1,7,8.5C7,3.813,10.142,0,14,0A6.566,6.566,0,0,1,19.34,3H16a1,1,0,0,0-1,1v6.352a1,1,0,0,0,1,1h.582v4.534l3.838-3.992A8.381,8.381,0,0,1,18,15.479V19h1a9.011,9.011,0,0,1,9,9h0Z" transform="translate(5746.998 10054.999)" fill="#fff"/>
+      <path id="Union_25" data-name="Union 25" d="M2.582,9.352H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1H12a1,1,0,0,1,1,1V8.352a1,1,0,0,1-1,1H6.941L2.582,13.886Z" transform="translate(5761 10058)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

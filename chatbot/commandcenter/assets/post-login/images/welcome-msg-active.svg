@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-Welcome_Message_Deselct">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="Welcome_Message_Deselct" data-name="Welcome Message Deselct" clip-path="url(#clip-Welcome_Message_Deselct)">
+    <rect width="60" height="60" fill="rgba(255,255,255,0)"/>
+    <g id="Ellipse_39" data-name="Ellipse 39" transform="translate(2 2)" fill="none" stroke="#306869" stroke-width="3">
+      <circle cx="28.5" cy="28.5" r="28.5" stroke="none"/>
+      <circle cx="28.5" cy="28.5" r="27" fill="none"/>
+    </g>
+    <g id="Group_82" data-name="Group 82" transform="translate(-1219.5 -196)">
+      <g id="Rectangle_1525" data-name="Rectangle 1525" transform="translate(1242 212)" fill="#306869" stroke="#306869" stroke-width="1">
+        <rect width="20" height="30" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="29" fill="none"/>
+      </g>
+      <line id="Line_73" data-name="Line 73" x2="4" transform="translate(1238.5 227.5)" fill="none" stroke="#306869" stroke-width="2"/>
+      <line id="Line_74" data-name="Line 74" x2="8" transform="translate(1242.5 227.5)" fill="none" stroke="#fff" stroke-width="2"/>
+      <path id="Path_440" data-name="Path 440" d="M4383.164,13468.562l3.985,4.895-3.985,4.072" transform="translate(-3136 -13246)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

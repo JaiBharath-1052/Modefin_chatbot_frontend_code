@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27d59a"/>
+      <stop offset="1" stop-color="#050e63"/>
+    </linearGradient>
+    <filter id="Ellipse_76" x="-2" y="1" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Launcher_icon2_Select">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="Launcher_icon2_Select" data-name="Launcher icon2 Select" clip-path="url(#clip-Launcher_icon2_Select)">
+    <rect width="80" height="80" fill="rgba(255,255,255,0)"/>
+    <g id="Group_169" data-name="Group 169" transform="translate(4)">
+      <g transform="matrix(1, 0, 0, 1, -4, 0)" filter="url(#Ellipse_76)">
+        <circle id="Ellipse_76-2" data-name="Ellipse 76" cx="33.5" cy="33.5" r="33.5" transform="translate(7 7)" fill="url(#linear-gradient)"/>
+      </g>
+      <path id="Path_504" data-name="Path 504" d="M2.379,0H26.173a2.38,2.38,0,0,1,2.379,2.379V19.035a2.38,2.38,0,0,1-2.379,2.379h-11.9L7.138,28.553V21.415H2.379A2.38,2.38,0,0,1,0,19.035V2.379A2.38,2.38,0,0,1,2.379,0Z" transform="translate(22 26)" fill="#fff"/>
+      <g id="Group_168" data-name="Group 168" transform="translate(-1997.5 -8474.447)">
+        <line id="Line_33" data-name="Line 33" x2="22.365" transform="translate(2022.5 8505.5)" fill="none" stroke="#018991" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_33-2" data-name="Line 33" x2="22.365" transform="translate(2022.5 8510.5)" fill="none" stroke="#018991" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_33-3" data-name="Line 33" x2="13.978" transform="translate(2022.5 8515.5)" fill="none" stroke="#018991" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-Chat_widget_deselect">
+      <rect width="35" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="Chat_widget_deselect" data-name="Chat widget deselect" clip-path="url(#clip-Chat_widget_deselect)">
+    <rect width="35" height="35" fill="rgba(255,255,255,0)"/>
+    <path id="Exclusion_5" data-name="Exclusion 5" d="M7.138,28.552V21.415H2.38A2.382,2.382,0,0,1,0,19.035V2.38A2.382,2.382,0,0,1,2.38,0H26.173a2.382,2.382,0,0,1,2.38,2.38V19.035a2.382,2.382,0,0,1-2.38,2.38h-11.9L7.14,28.551ZM3,13.553a1,1,0,1,0,0,2H14a1,1,0,0,0,0-2Zm0-4a1,1,0,0,0,0,2H25a1,1,0,0,0,0-2Zm0-4a1,1,0,1,0,0,2H25a1,1,0,0,0,0-2Z" transform="translate(3 3.447)" fill="#fff" opacity="0.5"/>
+  </g>
+</svg>

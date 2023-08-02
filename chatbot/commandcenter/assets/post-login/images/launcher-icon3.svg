@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Launcher_icon3">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Launcher_icon3" data-name="Launcher icon3" clip-path="url(#clip-Launcher_icon3)">
+    <rect width="32" height="32" fill="rgba(255,255,255,0)"/>
+    <path id="Union_14" data-name="Union 14" d="M-4152.346-14420.5H-4172a2.5,2.5,0,0,1-2.5-2.5v-16a2.5,2.5,0,0,1,2.5-2.5h23a2.5,2.5,0,0,1,2.5,2.5v12.6h.21v10.663Z" transform="translate(4176 14445)" fill="#fff"/>
+  </g>
+</svg>

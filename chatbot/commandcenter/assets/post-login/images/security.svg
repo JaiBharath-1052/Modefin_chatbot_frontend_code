@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <clipPath id="clip-_1_Secure">
+      <rect width="43" height="43"/>
+    </clipPath>
+  </defs>
+  <g id="_1_Secure" data-name="1 Secure" clip-path="url(#clip-_1_Secure)">
+    <rect width="43" height="43" fill="rgba(255,255,255,0)"/>
+    <g id="verified" transform="translate(-36 1)">
+      <path id="Path_516" data-name="Path 516" d="M74.4,6.8,58.334.125a1.639,1.639,0,0,0-1.257,0L41.011,6.8A1.639,1.639,0,0,0,40,8.31v8.109A27.454,27.454,0,0,0,57.086,41.846a1.64,1.64,0,0,0,1.239,0A27.454,27.454,0,0,0,75.41,16.418V8.31A1.639,1.639,0,0,0,74.4,6.8Zm-2.268,9.623A24.181,24.181,0,0,1,57.705,38.548,24.181,24.181,0,0,1,43.279,16.418V9.4l14.426-5.99L72.131,9.4ZM55.893,21.944,62.939,14.9a1.639,1.639,0,1,1,2.318,2.318l-8.205,8.205a1.639,1.639,0,0,1-2.318,0L50.152,20.84a1.639,1.639,0,1,1,2.318-2.318Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
